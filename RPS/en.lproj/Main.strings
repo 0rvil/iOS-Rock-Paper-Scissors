@@ -1,0 +1,15 @@
+
+/* Class = "UIButton"; normalTitle = "Rock"; ObjectID = "Omc-3X-mHv"; */
+"Omc-3X-mHv.normalTitle" = "Rock";
+
+/* Class = "UIButton"; normalTitle = "Scissors"; ObjectID = "XBz-7c-CvT"; */
+"XBz-7c-CvT.normalTitle" = "Scissors";
+
+/* Class = "UITextView"; text = "Ready"; ObjectID = "ZuE-cx-NS0"; */
+"ZuE-cx-NS0.text" = "Ready";
+
+/* Class = "UIButton"; normalTitle = "Paper"; ObjectID = "jFe-n3-YZ7"; */
+"jFe-n3-YZ7.normalTitle" = "Paper";
+
+/* Class = "UITextView"; text = "LVL. 1"; ObjectID = "mQh-4M-3oy"; */
+"mQh-4M-3oy.text" = "LVL. 1";
